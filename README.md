@@ -102,9 +102,4 @@ The dataset includes clinical and demographic features:
 - pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Acknowledgments
-This project was developed as part of the SCH-MGMT 657 course by Group 2:
-- Bhagyesh Reddy Bheemireddy
-- Rupali Madishetty
-- Chaitanya Krishna Chaluvadi
-- Surya Gande
-- Alistair Michael
+This project was developed as part of the coursework from Isenberg School of Management, University of Massachusetts Amherst
